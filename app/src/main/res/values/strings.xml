@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Amikom Fragment</string>
+    <string name="app_name">Amikom Implicit Intent</string>
 
     <string-array name="prodi">
         <item>--Pilih--</item>
